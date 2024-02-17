@@ -5,3 +5,5 @@ but.addEventListener('click', () => {
     document.body.style.backgroundColor = colors[count % colors.length]
     count++
 })
+console.log('hello')
+console.log('this is another branch')
